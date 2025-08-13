@@ -2,5 +2,5 @@
 <h1>welcome to my new website<h1>
 <p1>this is where i share my personal project data </p1>
   <h2>psychoanalysis theory</h2>
-  <img src="image/20241203_224025.jpg" alt="my photo" width="300">
+  <img src="20241203_224025.jpg" alt="20241203_224025.jpg" width="300">
 
